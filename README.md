@@ -2,7 +2,7 @@
 
 <img src="https://github.com/VitorHugoAntunes/Ignite_Shop_2.0/blob/main/public/ignite_shop.PNG?raw=true" alt="Ignite Shop">
 
-React blog that uses the Github API to create posts based on issues in a repository.
+E-commerce with NextJS and the Stripe API.
 
 ## 🚀 installing
 
